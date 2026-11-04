@@ -1,0 +1,21 @@
+ward_id,ward_name,annual_budget_cr,expenditure_cr,budget_utilization_pct,road_network_km,water_pipeline_km,streetlights_count,public_parks_count,primary_health_centers,is_silent_ward
+1,Sector 17 Commercial Hub,16.5,15.2,92.1,68.5,82.0,1850,14,2,False
+2,Lake View Enclave,18.2,17.6,96.7,54.0,68.0,1620,22,1,False
+3,University Town,14.0,12.8,91.4,72.0,75.0,1400,11,3,False
+4,Civil Lines West,13.5,12.0,88.9,60.0,62.0,1300,9,2,False
+5,Green Valley Phase 1,15.0,14.1,94.0,49.0,55.0,1250,18,2,False
+6,Railway Colony North,9.2,7.4,80.4,88.0,58.0,980,5,2,False
+7,Old Mandi & Shanti Basti,4.8,3.1,64.6,115.0,42.0,620,2,1,True
+8,Industrial Area Focal Point,11.0,9.8,89.1,94.0,70.0,1100,4,2,False
+9,Model Town Extension,14.5,13.6,93.8,66.0,68.0,1420,12,3,False
+10,Guru Nanak Nagar,10.5,9.1,86.7,78.0,64.0,1050,6,2,False
+11,Transport Nagar,9.8,8.0,81.6,64.0,52.0,890,3,1,False
+12,Subhash Nagar,12.0,10.8,90.0,62.0,60.0,1180,8,2,False
+13,Tagore Garden,15.8,14.9,94.3,52.0,58.0,1380,16,2,False
+14,Labour Colony & Riverbank,4.1,2.8,68.3,102.0,36.0,540,1,1,True
+15,Defence Enclave,17.0,16.3,95.9,48.0,65.0,1550,19,2,False
+16,New Bus Stand Belt,10.0,8.5,85.0,82.0,61.0,1020,5,2,False
+17,Kashmir Avenue,13.0,11.9,91.5,55.0,59.0,1220,10,2,False
+18,Bypass Outer Ring,9.5,7.9,83.2,91.0,56.0,940,4,1,False
+19,Kachi Basti Slum Resettlement,3.9,2.4,61.5,98.0,31.0,480,1,1,True
+20,Heritage Gate Market,11.5,10.2,88.7,50.0,54.0,1120,7,2,False

@@ -1,0 +1,21 @@
+ward_id,ward_name,population,poverty_rate,drainage_age_yrs,need_proxy,actual_complaints,expected_complaints,neglect_index,is_silent_ward,planted_silent_flag
+14,Labour Colony & Riverbank,88000,0.62,44,0.864,1015,4143.8,0.7551,True,True
+19,Kachi Basti Slum Resettlement,91000,0.65,42,0.8485,1184,4069.4,0.7091,True,True
+7,Old Mandi & Shanti Basti,94000,0.58,48,0.9295,1422,4457.9,0.681,True,True
+18,Bypass Outer Ring,59000,0.24,20,0.5575,2457,2673.8,0.0811,False,False
+6,Railway Colony North,71000,0.35,38,0.6945,3321,3330.9,0.003,False,False
+11,Transport Nagar,46000,0.28,30,0.52,2509,2493.9,-0.006,False,False
+16,New Bus Stand Belt,68000,0.26,29,0.594,2986,2848.9,-0.0481,False,False
+8,Industrial Area Focal Point,62000,0.3,32,0.658,3318,3155.8,-0.0514,False,False
+10,Guru Nanak Nagar,65000,0.22,24,0.537,2838,2575.5,-0.1019,False,False
+20,Heritage Gate Market,47000,0.2,36,0.488,2661,2340.5,-0.137,False,False
+12,Subhash Nagar,53000,0.18,22,0.447,2636,2143.8,-0.2296,False,False
+17,Kashmir Avenue,45000,0.13,17,0.372,2212,1784.1,-0.2398,False,False
+4,Civil Lines West,48000,0.12,25,0.438,2800,2100.7,-0.3329,False,False
+9,Model Town Extension,51000,0.11,16,0.4055,2604,1944.8,-0.339,False,False
+5,Green Valley Phase 1,39000,0.09,14,0.317,2183,1520.3,-0.4359,False,False
+3,University Town,58000,0.15,18,0.4555,3218,2184.6,-0.473,False,False
+13,Tagore Garden,44000,0.1,15,0.341,2599,1635.5,-0.5892,False,False
+1,Sector 17 Commercial Hub,42000,0.08,12,0.3737,2974,1792.5,-0.6591,False,False
+15,Defence Enclave,38000,0.06,11,0.287,2351,1376.5,-0.708,False,False
+2,Lake View Enclave,36000,0.05,10,0.2975,2712,1426.8,-0.9007,False,False

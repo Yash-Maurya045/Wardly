@@ -1,0 +1,21 @@
+ward_id,ward_name,population,road_km,drainage_age_yrs,poverty_rate,reporting_propensity,is_planted_silent
+1,Sector 17 Commercial Hub,42000,68.5,12,0.08,1.45,False
+2,Lake View Enclave,36000,54.0,10,0.05,1.6,False
+3,University Town,58000,72.0,18,0.15,1.3,False
+4,Civil Lines West,48000,60.0,25,0.12,1.15,False
+5,Green Valley Phase 1,39000,49.0,14,0.09,1.25,False
+6,Railway Colony North,71000,88.0,38,0.35,0.85,False
+7,Old Mandi & Shanti Basti,94000,115.0,48,0.58,0.28,True
+8,Industrial Area Focal Point,62000,94.0,32,0.3,0.9,False
+9,Model Town Extension,51000,66.0,16,0.11,1.2,False
+10,Guru Nanak Nagar,65000,78.0,24,0.22,0.95,False
+11,Transport Nagar,46000,64.0,30,0.28,0.88,False
+12,Subhash Nagar,53000,62.0,22,0.18,1.05,False
+13,Tagore Garden,44000,52.0,15,0.1,1.35,False
+14,Labour Colony & Riverbank,88000,102.0,44,0.62,0.22,True
+15,Defence Enclave,38000,48.0,11,0.06,1.5,False
+16,New Bus Stand Belt,68000,82.0,29,0.26,0.92,False
+17,Kashmir Avenue,45000,55.0,17,0.13,1.1,False
+18,Bypass Outer Ring,59000,91.0,20,0.24,0.8,False
+19,Kachi Basti Slum Resettlement,91000,98.0,42,0.65,0.25,True
+20,Heritage Gate Market,47000,50.0,36,0.2,1.0,False

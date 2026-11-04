@@ -1,0 +1,7 @@
+language,ward_tier,text,expected_category,predicted_category,category_accurate,predicted_urgency
+en,Affluent,"Drinking water pipeline ruptured on main street, massive clean water waste.",Water Supply & Contamination,Water Supply & Contamination,True,Medium
+hinglish,Marginalized,"Main sadak pe paani ki pipeline phat gayi hai, boht paani beh raha hai.",Water Supply & Contamination,Water Supply & Contamination,True,High
+punjabi_latin,Marginalized,"Sadak te peen aale paani di pipeline fatt gayi hai, boht nuksan ho riha.",Water Supply & Contamination,Water Supply & Contamination,True,Medium
+en,Affluent,Open sewer manhole overflowing with toxic sludge near bus stop.,Sewage & Drainage Overflow,Sewage & Drainage Overflow,True,Medium
+hinglish,Marginalized,Bus stand ke paas khula gutter ka dhakkan ubhal raha hai ganda kichar.,Sewage & Drainage Overflow,Sewage & Drainage Overflow,True,Medium
+punjabi_latin,Marginalized,Bus adda kol gutter da dhakkan khula te ganda pani sadak te chhalak reha.,Sewage & Drainage Overflow,Sewage & Drainage Overflow,True,Medium
