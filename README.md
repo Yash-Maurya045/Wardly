@@ -62,10 +62,3 @@ npm run dev
 ```
 
 ---
-
-## 📑 Academic Subject Coverage
-1. **Technical Training-II (`25CAP-707`):** FastAPI REST APIs, JWT Auth, Role-based Access (Citizen, Officer, Admin), React 18 + Anime.js v4.
-2. **DATA MINING AND WAREHOUSING (`25CAH-741`):** Star schema (`fact_complaint`, `dim_ward`, `dim_category`, `dim_time`), DuckDB OLAP, Apriori association, K-Means hotspotting, Decision Tree resolution modeling.
-3. **Generative AI (`25CAH-742`):** Multilingual vernacular NLP triage, Google Gemini Studio for Executive Memos & Trilingual Receipts, demographic bias auditor.
-4. **Cloud Computing for Data Science (`25CAH-745`):** Columnar DuckDB vs Row SQLite, Parquet data lake storage, Dockerized micro-services, Universal Automated ETL Engine.
-5. **Data Visualization & Lab (`25CAT-743` / `25CAP-744`):** Interactive Leaflet Living Map, Bricolage Grotesque design system, colorblind-safe dual-chroma scale (Pulse `#2F4BFF` vs Ember `#FF9F1C`), Anime.js v4 kinetic micro-interactions.
